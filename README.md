@@ -24,7 +24,7 @@ to install, you need to grab the dependancies first:
 ```bash
 doas apt update && doas apt install -y \
   xinit xserver-xorg xserver-xorg-core xauth xclip xinput \
-  qtile picom rofi xwallpaper scrot notification-daemon \
+  qtile picom dmenu xwallpaper scrot notification-daemon \
   alacritty zsh zsh-autosuggestions zsh-syntax-highlighting \
   ranger neovim htop fastfetch tree \
   pipewire pipewire-pulse wireplumber pavucontrol \
