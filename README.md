@@ -15,6 +15,7 @@ requirements:
 * **Typography:** Iosevka Nerd Font
 
 ---
+![Environment Screenshot](2026-06-07-103527_screenshot.png)
 
 ## Prerequisites and Dependency Installation
 
