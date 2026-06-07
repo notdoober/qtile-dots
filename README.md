@@ -18,10 +18,10 @@ requirements:
 
 ## Prerequisites and Dependency Installation
 
-to install, you need to grab the dependancies first (if you use sudo replace it):
+to install, you need to grab the dependancies first:
 
 ```bash
-doas apt update && sudo apt install -y \
+doas apt update && doas apt install -y \
   xinit xserver-xorg xserver-xorg-core xauth xclip xinput \
   qtile picom rofi xwallpaper scrot notification-daemon \
   alacritty zsh zsh-autosuggestions zsh-syntax-highlighting \
